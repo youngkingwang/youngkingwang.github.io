@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2014-08-11T15:04:36.497Z</updated>
+  <updated>2014-08-11T15:13:29.462Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -13,6 +13,35 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[To Do]]></title>
+    <link href="http://yoursite.com/2014/08/11/to-do/"/>
+    <id>http://yoursite.com/2014/08/11/to-do/</id>
+    <published>2014-08-11T15:12:41.000Z</published>
+    <updated>2014-08-11T15:13:20.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="前言">前言</h3>
+<p>今天大致配置好了我的博客，有部分后续工作需要做</p>
+<h3 id="进展">进展</h3>
+<ul>
+<li>配置了RSS功能</li>
+<li>添加了”关于”页面</li>
+<li>添加了个人头像</li>
+<li>添加Linusp等博客链接</li>
+</ul>
+<h3 id="后续工作">后续工作</h3>
+<ol>
+<li>优化博客，SEO优化</li>
+<li>修复weibo，github的fork问题</li>
+<li>优化博客主题，让其更符合喜欢的风格</li>
+<li>学会怎样在博客中添加图片、视频等</li>
+<li>将分布在其他博客上的文章迁移到这（不是必须）</li>
+</ol>
+<p>…</p>
+]]></content>
+    
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
